@@ -1,0 +1,98 @@
+.btnStartPro{
+    background-color: transparent;
+    border-radius: 35px;
+    border:  2px solid  #6CC9CB;
+    color: white;
+    font: 1.2rem;
+
+}
+.btnStartPro2{
+    background-color: transparent;
+    border-radius: 35px;
+    border:  2px solid  #04535B;
+    color: #04535B;
+    font: 1.2rem;
+
+}
+.btnStartPro1{
+    background-color: transparent;
+    border: transparent;
+
+}
+
+.btnStartPro:hover{
+    background-color: #6CC9CB;
+    transition: 0.3s;
+    color: #04535B;
+    font: 1.2rem;
+    font-weight: bold;
+    transition: 0s;
+
+}
+.btnStartPro2:hover{
+    background-color: #04535B;
+    transition: 0.3s;
+    color: #ffffff;
+    font: 1.2rem;
+    font-weight: bold;
+    transition: 0s;
+
+}
+
+
+
+#imgPlay{
+    width: 70px;
+    margin-left: 15px;
+}
+
+
+
+
+#card1{
+    background-color: white;
+
+
+}
+#card1:hover{
+    background-color: #04535B;
+    color: white;
+}
+
+
+
+
+.bordercolor{
+    border: 3px solid #04535B;
+   
+}
+
+
+.btn2{
+    width: 100%; 
+    background-color:#04535B; 
+    border: transparent;
+}
+
+.btn2:hover{
+    background-color: #053b41;
+}
+
+.work{
+    text-decoration: none;
+
+}
+.work1{
+    list-style-type: none;
+}
+
+
+
+.anchor{
+    text-decoration: none;
+    color: #ffffff;
+}
+.anchor:hover{
+
+    color:#04535B;
+}
